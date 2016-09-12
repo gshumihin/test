@@ -1,52 +1,53 @@
 #top 50 websites
 ##2016
-http://facebook.com
-http://google.com
-http://youtube.com
-http://vk.com
-http://yahoo.com
-http://instagram.com
-http://wikipedia.org
-http://live.com
-http://twitter.com
-http://amazon.com
-http://yandex.ru
-http://google.com.br
-http://google.co.uk
-http://google.co.in
-http://ok.ru
-http://baidu.com
-http://mail.ru
-http://xvideos.com
-http://google.fr
-http://google.de
-google.co.jp 
-pornhub.com 
-google.ru 
-ebay.com 
-google.com.tr 
-reddit.com 
-yahoo.co.jp 
-msn.com 
-google.it 
-google.com.mx 
-google.pl 
-google.ca 
-netflix.com 
-google.es 
-tumblr.com 
-xhamster.com 
-bing.com 
-craigslist.org 
-xnxx.com 
-googleadservices.com 
-linkedin.com 
-qq.com 
-pinterest.com 
-google.com.au 
-aliexpress.com 
-google.co.id 
-imgur.com
-imdb.com
-taobao.com
-google.com.ar
+### Here's list:
+- http://facebook.com
+- http://google.com
+- http://youtube.com
+- http://vk.com
+- http://yahoo.com
+- http://instagram.com
+- http://wikipedia.org
+- http://live.com
+- http://twitter.com
+- http://amazon.com
+- http://yandex.ru
+- http://google.com.br
+- http://google.co.uk
+- http://google.co.in
+- http://ok.ru
+- http://baidu.com
+- http://mail.ru
+- http://xvideos.com
+- http://google.fr
+- http://google.de
+- http://google.co.jp
+- http://pornhub.com
+- http://google.ru
+- http://ebay.com
+- http://google.com.tr
+- http://reddit.com
+- http://yahoo.co.jp
+- http://msn.com
+- http://google.it
+- http://google.com.mx
+- http://google.pl
+- http://google.ca
+- http://netflix.com
+- http://google.es
+- http://tumblr.com
+- http://xhamster.com
+- http://bing.com
+- http://craigslist.org
+- http://xnxx.com
+- http://googleadservices.com
+- http://linkedin.com
+- http://qq.com
+- http://pinterest.com
+- http://google.com.au
+- http://aliexpress.com
+- http://google.co.id
+- http://imgur.com
+- http://imdb.com
+- http://taobao.com
+- http://google.com.ar
