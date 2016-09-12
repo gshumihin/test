@@ -1,7 +1,6 @@
-"Provided by SimilarWeb. Discover More with SimilarWeb PRO, Try Our Demo!: https://www.similarweb.com/pro"
-Rank,Domain,Main Category,Subcategory
-1,facebook.com,Internet and Telecom,Social Network
-2,google.com,Internet and Telecom,Search Engine
+
+1, facebook.com ,Internet and Telecom,Social Network
+2,google.com ,Internet and Telecom,Search Engine
 3,youtube.com,Arts and Entertainment,TV and Video
 4,vk.com,Internet and Telecom,Social Network
 5,yahoo.com,News and Media, 
