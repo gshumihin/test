@@ -6,7 +6,7 @@
 
 <img src="https://cloud.githubusercontent.com/assets/8577547/19343100/74ff48fa-913d-11e6-8d15-423e5e16353a.png" width="150">
 
-— Click on the "Lock" icon. This will not allow xiaomi close Adguard automatically. How it should looks like in the end:
+— Click on the "Lock" icon. This will not allow Xiaomi close Adguard automatically. How it should looks like in the end:
 
 <img src="https://cloud.githubusercontent.com/assets/8577547/19343634/a8aadec4-913f-11e6-8a1b-2e440d0d8952.png" width="150">
 
