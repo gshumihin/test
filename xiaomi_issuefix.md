@@ -1,8 +1,8 @@
-#How to make Adguard working as it should with xiaomi devices.
+#How to make Adguard work as it should with xiaomi devices.
 
 ###First of all you should "Lock" Adguard in recent apps:
 
-— Drag adguard down to make options viable:
+— Drag Adguard down to make options viable:
 
 <img src="https://cloud.githubusercontent.com/assets/8577547/19343100/74ff48fa-913d-11e6-8d15-423e5e16353a.png" width="150">
 
