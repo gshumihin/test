@@ -1,4 +1,4 @@
-#How to make Adguard work as it should with xiaomi devices.
+#How to make Adguard work as it should with Xiaomi devices.
 
 ###First of all you should "Lock" Adguard in recent apps:
 
