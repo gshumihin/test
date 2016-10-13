@@ -14,8 +14,10 @@
 
 Sections of _"Security"_ needed to be set up:
 
-— _[Cleaner](#cleaner_setup)_
-— _[Battery](#battery_setup)_
-— _[Rermissons](#permissions_setup)_
+— _[Cleaner](#cleaner-setup)_
+
+— _[Battery](#battery-setup)_
+
+— _[Rermissons](#permissions-setup)_
 
 ####Cleaner setup
