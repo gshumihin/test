@@ -6,11 +6,11 @@
 
 <img src="https://cloud.githubusercontent.com/assets/8577547/19343100/74ff48fa-913d-11e6-8d15-423e5e16353a.png" width="150">
 
-— Click on the "Lock" icon. This will not allow Xiaomi close Adguard automatically. How it should looks like in the end:
+— Click on the "Lock" icon. This will not let Xiaomi to close Adguard automatically. It should look like this:
 
 <img src="https://cloud.githubusercontent.com/assets/8577547/19343634/a8aadec4-913f-11e6-8a1b-2e440d0d8952.png" width="150">
 
-###The next thing is to setup Xiaomi's security settings to make Adguard works properly.
+###The next thing is to setup Xiaomi's security settings to make Adguard work properly.
 
 Sections of _"Security"_ needed to be set up:
 
@@ -28,7 +28,7 @@ Sections of _"Security"_ needed to be set up:
 
 — Click "Add to exceptions"
 
-Now if you go to Clean->Deep clean->Settings->Exceptions, there should be Adguard:
+Now if you go to Clean->Deep clean->Settings->Exceptions, there should be Adguard in the list:
 
 <img src="https://cloud.githubusercontent.com/assets/8577547/19345737/8177feb4-9148-11e6-9cf9-ded6d62fb536.png" width="150">
 
@@ -50,6 +50,6 @@ Now if you go to Clean->Deep clean->Settings->Exceptions, there should be Adguar
 
 — Select _"Autostart"_
 
-— Make sure Adguard autostart is enabled:
+— Make sure autostart is enabled for Adguard:
 
 <img src="https://cloud.githubusercontent.com/assets/8577547/19349511/07b27d2a-915c-11e6-9759-9703df55e36c.png" width="150">
