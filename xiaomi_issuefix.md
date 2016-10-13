@@ -14,10 +14,33 @@
 
 Sections of _"Security"_ needed to be set up:
 
-— _[Cleaner](#cleaner-setup)_
-
-— _[Battery](#battery-setup)_
-
-— _[Rermissons](#permissions-setup)_
+1. _[Cleaner](#cleaner-setup)_
+2. _[Battery](#battery-setup)_
+3. _[Rermissons](#permissions-setup)_
 
 ####Cleaner setup
+
+— Go to _"Cleaner"_ section and wait till the scan is over
+
+— Scroll down to _"Packages"_ and long-tap _"Adguard"_:
+
+<img src="https://cloud.githubusercontent.com/assets/8577547/19345659/08defeb2-9148-11e6-938f-b1a551e29a6e.png" width="150">
+
+— Click "Add to exceptions"
+
+Now if you go to Clean->Deep clean->Settings->Exceptions, there should be Adguard:
+
+<img src="https://cloud.githubusercontent.com/assets/8577547/19345737/8177feb4-9148-11e6-9cf9-ded6d62fb536.png" width="150">
+
+####Battery setup
+
+— Go to _"Battery"_ 
+
+— Select _"App battery saver"_
+
+— Find and select _Adguard_
+
+— Set up next _Background settings_:
+
+<img src ="https://cloud.githubusercontent.com/assets/8577547/19349402/78d3a9a8-915b-11e6-8c7e-580b3d278433.png" width="150">
+
