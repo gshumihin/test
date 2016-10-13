@@ -44,3 +44,11 @@ Now if you go to Clean->Deep clean->Settings->Exceptions, there should be Adguar
 
 <img src ="https://cloud.githubusercontent.com/assets/8577547/19349402/78d3a9a8-915b-11e6-8c7e-580b3d278433.png" width="150">
 
+####Permissions setup
+
+— Go to _"Permissions"_
+
+— Select _"Autostart"_
+
+— Make sure Adguard autostart is enabled:
+<img src="https://cloud.githubusercontent.com/assets/8577547/19349511/07b27d2a-915c-11e6-9759-9703df55e36c.png" width="150">
